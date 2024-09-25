@@ -1,0 +1,13 @@
+:root {
+  --white: #267b7b;
+  --gray: #d9d9d9;
+  --black: #000000;
+  --primary-color: #0c1431;
+  --secondary-color: #0c1431;
+  --dark-secondary-color: #3c415c;
+  --tertiary-color: #a6b1e1;
+  --light-tertiary-color: #267b7b;
+  --text-color: #343d48;
+
+  --font-family: 'DM Sans', sans-serif;
+}
